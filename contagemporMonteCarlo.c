@@ -6,7 +6,7 @@
 int main() {
 	
 	/*
-		Simulação de uma contagem de peixes em um lago através do Método de Monte Carlo
+		Simulação de uma contagem de peixes em um lago através do Método de Monte Carlo.
 		
 		Um exemplo clássico do uso do método de Monte Carlo é a estimativa da população de peixes em um lago. 
 		Nesse método é feita uma primeira etapa de identificação: são pescados diversos peixes que são marcados por meio de um anel.
